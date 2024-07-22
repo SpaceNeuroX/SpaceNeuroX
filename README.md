@@ -15,7 +15,7 @@
 - Android apps development
 
 ## 📫 How to reach me ...
-- Email: [your.email@example.com](totoshkus@gmail.com)
+- Email: (totoshkus@gmail.com)
 - GitHub: [@SpaceNeuroX](https://github.com/SpaceNeuroX)
 
 ## 😄 Pronouns:
