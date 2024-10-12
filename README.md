@@ -1,30 +1,28 @@
-# 👋 Hi, I’m @SpaceNeuroX
-![Welcome GIF](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+# 👋 Привет, я @SpaceNeuroX
 
-## 👀 I’m interested in ...
-- Machine Learning (ML)
-- Natural Language Processing (NLP)
-- Android Development
+## 👀 Я интересуюсь ...
+- Машинным обучением (ML)
+- Обработкой естественного языка (NLP)
+- Разработкой приложений для Android
 
-## 🌱 I’m currently learning ...
-- Advanced techniques in ML and NLP
-- Developing applications for Android
+## 🌱 В данный момент я изучаю ...
+- Продвинутые техники в ML и NLP
+- Разработку приложений для Android
 
-## 💞️ I’m looking to collaborate on ...
-- ML and NLP projects
-- Android apps development
+## 💻 Сейчас я работаю над ...
+- [ruSpamNS_v6](https://huggingface.co/NeuroSpaceX/ruSpamNS_v6) — проект на Hugging Face
+- [ruSpamLib](https://github.com/SpaceNeuroX/ruSpamLib/tree/main) — библиотека, связанная с вышеуказанным проектом
 
-## 📫 How to reach me ...
-- Email: (totoshkus@gmail.com)
+## 💞️ Я ищу возможности для сотрудничества ...
+- Проекты в области ML и NLP
+- Разработка приложений для Android
+
+## 📫 Как со мной связаться ...
+- Email: [totoshkus@gmail.com](mailto:totoshkus@gmail.com)
 - GitHub: [@SpaceNeuroX](https://github.com/SpaceNeuroX)
 
-## 😄 Pronouns:
-- He/Him
+## 😄 Местоимения:
+- Он/Его
 
-## ⚡ Fun fact:
-- I enjoy exploring space science and neuroscience in my free time.
-
-<!---
-SpaceNeuroX/SpaceNeuroX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡ Интересный факт:
+- В свободное время мне нравится изучать космическую науку и нейронауку.
