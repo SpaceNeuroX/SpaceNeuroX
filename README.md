@@ -14,7 +14,6 @@
 - [ruSpamLib](https://github.com/SpaceNeuroX/ruSpamLib/tree/main) — библиотека, связанная с вышеуказанным проектом
 
 ## 📫 Как со мной связаться ...
-- Email: [totoshkus@gmail.com](mailto:totoshkus@gmail.com)
 - GitHub: [@SpaceNeuroX](https://github.com/SpaceNeuroX)
 
 ## ⚡ Интересный факт:
